@@ -1,0 +1,8 @@
+<suite name="googleTest">
+    <test name= "pageFragment">
+        <classes>
+            <class name= "GoogleSearchTest">
+            </class>
+        </classes>
+    </test>
+</suite>
